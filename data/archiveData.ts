@@ -112,7 +112,7 @@ export const featuredProjects: Project[] = [
     detailedDocumentation: "Melanosense was built to bring affordable screening tools to patients. It uses fine-tuned image processing pipelines to segment lesion boundaries, feeding clean arrays to a lightweight classifier backend built for low-latency scoring.",
     tags: ["Python", "Computer Vision", "Image Processing", "Healthcare Tech"],
     githubUrl: "https://github.com/prayangshuuu/MelanoSense",
-    image: "/gallery/celestra/motion_photo_2370970523713160144-2.jpg"
+    image: "/gallery/celestra/motion_photo_1335720972593701001-2.jpg"
   }
 ];
 
