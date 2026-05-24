@@ -44,10 +44,10 @@ export default function AchievementsPage() {
                   <p className="text-sm text-slate-600 max-w-2xl pt-1 leading-relaxed">{item.description}</p>
                   
                   {/* Action Link for Verification */}
-                  {item.link && (
+                  {item.verificationUrl && (
                     <div className="pt-3">
                       <a 
-                        href={item.link}
+                        href={item.verificationUrl}
                         target="_blank"
                         className="inline-flex items-center gap-1.5 text-xs font-bold text-indigo-600 hover:text-indigo-800 bg-indigo-50/50 hover:bg-indigo-50 px-3 py-1.5 rounded-lg transition"
                       >
